@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">- 📖 Atualmente sou estudante de Engenharia da computação no Instituto Federal do Sul de Minas<br>- 💻 Desenvolvo projetos da faculdade e pessoais em c, pyhton, html, css e javascript<br>- 💸 Procuro oportunidades de projetos remunerados<br>- 👨 Sou curioso e interessado em aprender mais sobre a área de programação</p>
+<p align="left">- 🏫 Estudante do Instituto Federal do Sul de Minas (IF sul de minas)<br>- 💻 Desenvolvo projetos da faculdade e pessoais em c, pyhton, html, css e javascript<br>- 💸 Procuro oportunidades de projetos remunerados<br>- 👨 Sou curioso e interessado em aprender mais sobre a área de programação</p>
 
 ###
 

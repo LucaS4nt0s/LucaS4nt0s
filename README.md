@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Luca and I'm a student from Brazil</p>
+<p align="left">My name is Luca and I'm currently a computer engineering student</p>
 
 ###
 

@@ -1,25 +1,16 @@
-<h1 align="left">Bem vindo ao meu perfil!</h1>
+## 👨‍💻 Sobre mim
 
-###
+Olá! Sou o **Luca Samuel dos Santos** 👋
 
-<p align="left">My name is Luca and I'm currently a computer engineering student</p>
+Sou estudante de **Engenharia da Computação** no IFSULDEMINAS (Campus Poços de Caldas) e um desenvolvedor apaixonado por construir soluções de ponta a ponta — desde a escovação de bits no hardware até a entrega de aplicações web escaláveis. 
 
-###
+Tenho forte interesse em **Arquitetura de Software, Desenvolvimento Backend e Internet das Coisas (IoT)**. Gosto de resolver problemas complexos estruturando dados, otimizando algoritmos e criando arquiteturas limpas.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucaS4nt0s&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucaS4nt0s&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">- 🏫 Estudante do Instituto Federal do Sul de Minas (IF sul de minas)<br>- 💻 Desenvolvo projetos da faculdade e pessoais em java, c, pyhton, html, css e javascript<br>- 💸 Procuro oportunidades de projetos remunerados<br>- 👨 Sou curioso e interessado em aprender mais sobre a área de programação</p>
-
-###
+- 🔭 **Atualmente trabalhando em:** Desenvolvimento de aplicações web para clientes reais através da **EJ Turing** (Empresa Júnior) e pesquisando dashboards analíticos desacoplados.
+- 🌱 **Aprofundando conhecimentos em:** DevOps & Observabilidade (Docker, Grafana, Prometheus, Loki) e integrações avançadas de IoT.
+- ⚙️ **Experiência prática com:** Desenvolvimento Full Stack (Python, Java, Angular), sistemas embarcados (ESP32, C/C++, sensores) e prototipagem/impressão 3D no Laboratório Maker.
+- 🎯 **Objetivo:** Busco desafios e estágios em Engenharia de Software / Backend onde eu possa transformar requisitos complexos em código eficiente e de alto impacto.
+- 📫 **Como me encontrar:** linkedin.com/in/lucasamueldossantos/ | lucasamuel30@gmail.com
 
 <h2 align="left">I code with</h2>
 
